@@ -14,6 +14,7 @@ public class Arreglos1{
       int suma = 0;
       int cont = 0;
       float prom;
+      //Vamos a ver si me detecta
       
       System.out.print("Tamaño de la lista: ");
       n = entrada.nextInt();
